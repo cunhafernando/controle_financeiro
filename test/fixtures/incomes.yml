@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  desciption: MyString
+  value: 9.99
+  data: 2023-12-19
+  type: 
+  group: one
+
+two:
+  desciption: MyString
+  value: 9.99
+  data: 2023-12-19
+  type: 
+  group: two
